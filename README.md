@@ -1,0 +1,3 @@
+#Another one of my Boilerplates for a rest API...
+
+good for using Passport JWT Auth and Sequelize DB management with consign. Currently building the unit tests and the documentation. Will also add the front end.

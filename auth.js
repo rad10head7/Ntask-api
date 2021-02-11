@@ -1,5 +1,5 @@
-import passport from "passport";
-import {Strategy, ExtractJwt} from "passport-jwt"
+const passport = require("passport");
+const {Strategy, ExtractJwt} = ("passport-jwt");
 
 module.exports = app => {
 	const Users = app.db.models.Users;
